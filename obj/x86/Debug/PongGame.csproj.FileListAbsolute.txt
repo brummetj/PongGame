@@ -1,0 +1,30 @@
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\obj\x86\Debug\PongGame.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\PongGame.exe
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\PongGame.pdb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\obj\x86\Debug\PongGame.exe
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\obj\x86\Debug\PongGame.pdb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\BW Whiffle Ball.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\Left Arrow.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\Right Arrow.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\ballhit.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\killshot.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\miss.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\Courier New.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\left_paddle.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\right_paddle.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\small_ball.xnb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\0001.xnb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\Center.xnb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\Up Arrow125.xnb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\PongGame\PongGame\PongGame\bin\x86\Debug\Content\Down Arrow 125.xnb
